@@ -8,7 +8,7 @@ The **Event Registration System** is a simple C program that allows users to:
 - View all registered participants
 - Search for a participant by name
 
-All data is stored in a text file (`participants.txt`) for persistence.
+
 
 ## 🛠 Features
 - **Add Participant** → Stores participant details in a file
