@@ -1,6 +1,6 @@
 # Event-Registration-System
 A simple file-based Event Registration System in C that allows adding, viewing, and searching participants with persistent storage.
-# Event Registration System (C Language)
+
 
 ## 📌 Overview
 The **Event Registration System** is a simple C program that allows users to:
