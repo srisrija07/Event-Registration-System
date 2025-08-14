@@ -16,5 +16,5 @@ All data is stored in a text file (`participants.txt`) for persistence.
 - **Search Participant** → Finds and displays a participant’s details by name
 - **Persistent Storage** → Data is saved in `participants.txt` so it remains after the program ends
 
-## 📂 File Structure
+
 
